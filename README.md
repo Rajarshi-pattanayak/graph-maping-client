@@ -79,7 +79,9 @@ Sample Output:
     Walking Duration: 6 mins
     Map visualization saved as 'campus_navigation.html'
 
-    <img width="1133" height="869" alt="image" src="https://github.com/user-attachments/assets/a5f9f1b6-b6ac-492b-94a5-aac5988a8446" />
+
+
+<img width="1133" height="869" alt="image" src="https://github.com/user-attachments/assets/fa1baa3d-1cf7-4b07-ba05-12cc7753d0c5" />
 
 
 ## File Structure
